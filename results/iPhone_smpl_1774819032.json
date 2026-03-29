@@ -1,0 +1,29 @@
+{
+  "timestamp" : 1774819032,
+  "sessionId" : "smpl_1x_0329_111658",
+  "engineDisplayName" : "SMPL AFE (HAL)",
+  "engine" : "smpl",
+  "trialCount" : 1,
+  "platform" : "iOS",
+  "trials" : [
+    {
+      "snrDb" : 0,
+      "notes" : "Mini",
+      "erlDb" : 44.396358489990234,
+      "timeToSpeakerMs" : 0,
+      "timestamp" : 1774819032,
+      "firstAudioLatencyMs" : 363,
+      "engineDisplayName" : "SMPL AFE (HAL)",
+      "estimatedMOS" : 5,
+      "trialIndex" : 0,
+      "hasQualityMetrics" : true,
+      "selfInterruptCount" : 0,
+      "totalResponseCount" : 1,
+      "engine" : "smpl",
+      "bargeInCount" : 0,
+      "deviceName" : "iPhone"
+    }
+  ],
+  "device" : "iPhone",
+  "deviceId" : "5460099A-579E-478C-A7A0-88B7726BDB26"
+}
