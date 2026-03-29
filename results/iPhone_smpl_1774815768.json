@@ -1,0 +1,61 @@
+{
+  "engine" : "smpl",
+  "device" : "iPhone",
+  "trialCount" : 3,
+  "sessionId" : "smpl_3x_0329_102204",
+  "trials" : [
+    {
+      "hasQualityMetrics" : true,
+      "engineDisplayName" : "SMPL AFE (HAL)",
+      "firstAudioLatencyMs" : 512,
+      "snrDb" : 0,
+      "timeToSpeakerMs" : 0,
+      "notes" : "H",
+      "bargeInCount" : 0,
+      "estimatedMOS" : 5,
+      "erlDb" : 82.48150634765625,
+      "engine" : "smpl",
+      "selfInterruptCount" : 0,
+      "deviceName" : "iPhone",
+      "trialIndex" : 0,
+      "totalResponseCount" : 1,
+      "timestamp" : 1774815768
+    },
+    {
+      "bargeInCount" : 0,
+      "trialIndex" : 1,
+      "notes" : "H",
+      "timeToSpeakerMs" : 0,
+      "firstAudioLatencyMs" : 535,
+      "totalResponseCount" : 1,
+      "deviceName" : "iPhone",
+      "snrDb" : 0,
+      "timestamp" : 1774815768,
+      "selfInterruptCount" : 0,
+      "hasQualityMetrics" : true,
+      "estimatedMOS" : 5,
+      "erlDb" : 82.710708618164062,
+      "engine" : "smpl",
+      "engineDisplayName" : "SMPL AFE (HAL)"
+    },
+    {
+      "timeToSpeakerMs" : 0,
+      "selfInterruptCount" : 0,
+      "trialIndex" : 2,
+      "engineDisplayName" : "SMPL AFE (HAL)",
+      "bargeInCount" : 0,
+      "estimatedMOS" : 5,
+      "hasQualityMetrics" : true,
+      "timestamp" : 1774815768,
+      "notes" : "H",
+      "engine" : "smpl",
+      "totalResponseCount" : 1,
+      "erlDb" : 64.1607666015625,
+      "deviceName" : "iPhone",
+      "firstAudioLatencyMs" : 374,
+      "snrDb" : 0
+    }
+  ],
+  "engineDisplayName" : "SMPL AFE (HAL)",
+  "timestamp" : 1774815768
+}
