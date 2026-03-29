@@ -1,0 +1,61 @@
+{
+  "timestamp" : 1774814434,
+  "device" : "Jonathan’s Laptop",
+  "engineDisplayName" : "HAL + AEC3",
+  "engine" : "both",
+  "trials" : [
+    {
+      "totalResponseCount" : 4,
+      "snrDb" : 0,
+      "engine" : "both",
+      "erlDb" : 0,
+      "bargeInCount" : 2,
+      "estimatedMOS" : 0,
+      "trialIndex" : 0,
+      "engineDisplayName" : "HAL + AEC3",
+      "hasQualityMetrics" : false,
+      "notes" : "test",
+      "timeToSpeakerMs" : 0,
+      "timestamp" : 1774814434,
+      "selfInterruptCount" : 1,
+      "deviceName" : "Jonathan’s Laptop",
+      "firstAudioLatencyMs" : 438
+    },
+    {
+      "totalResponseCount" : 1,
+      "deviceName" : "Jonathan’s Laptop",
+      "trialIndex" : 1,
+      "snrDb" : 0,
+      "engine" : "both",
+      "timeToSpeakerMs" : 0,
+      "bargeInCount" : 0,
+      "estimatedMOS" : 0,
+      "timestamp" : 1774814434,
+      "selfInterruptCount" : 0,
+      "erlDb" : 0,
+      "engineDisplayName" : "HAL + AEC3",
+      "hasQualityMetrics" : false,
+      "firstAudioLatencyMs" : 369,
+      "notes" : "test"
+    },
+    {
+      "erlDb" : 0,
+      "bargeInCount" : 0,
+      "hasQualityMetrics" : false,
+      "engine" : "both",
+      "engineDisplayName" : "HAL + AEC3",
+      "notes" : "test",
+      "estimatedMOS" : 0,
+      "timestamp" : 1774814434,
+      "totalResponseCount" : 2,
+      "deviceName" : "Jonathan’s Laptop",
+      "timeToSpeakerMs" : 0,
+      "snrDb" : 0,
+      "selfInterruptCount" : 1,
+      "trialIndex" : 2,
+      "firstAudioLatencyMs" : 543
+    }
+  ],
+  "sessionId" : "both_3x_0329_095951",
+  "trialCount" : 3
+}
