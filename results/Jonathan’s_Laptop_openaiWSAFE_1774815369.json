@@ -1,0 +1,61 @@
+{
+  "trials" : [
+    {
+      "timestamp" : 1774815369,
+      "selfInterruptCount" : 0,
+      "deviceName" : "Jonathan’s Laptop",
+      "timeToSpeakerMs" : 0,
+      "erlDb" : 0,
+      "snrDb" : 0,
+      "firstAudioLatencyMs" : 0,
+      "totalResponseCount" : 0,
+      "engineDisplayName" : "OpenAI WS (SMPL AFE)",
+      "notes" : "local",
+      "engine" : "openaiWSAFE",
+      "estimatedMOS" : 0,
+      "trialIndex" : 0,
+      "hasQualityMetrics" : false,
+      "bargeInCount" : 0
+    },
+    {
+      "erlDb" : 0,
+      "selfInterruptCount" : 0,
+      "timestamp" : 1774815369,
+      "totalResponseCount" : 0,
+      "timeToSpeakerMs" : 0,
+      "engine" : "openaiWSAFE",
+      "estimatedMOS" : 0,
+      "trialIndex" : 1,
+      "hasQualityMetrics" : false,
+      "deviceName" : "Jonathan’s Laptop",
+      "engineDisplayName" : "OpenAI WS (SMPL AFE)",
+      "notes" : "local",
+      "firstAudioLatencyMs" : 0,
+      "snrDb" : 0,
+      "bargeInCount" : 0
+    },
+    {
+      "timeToSpeakerMs" : 0,
+      "bargeInCount" : 0,
+      "erlDb" : 0,
+      "snrDb" : 0,
+      "estimatedMOS" : 0,
+      "timestamp" : 1774815369,
+      "trialIndex" : 2,
+      "totalResponseCount" : 0,
+      "notes" : "local",
+      "firstAudioLatencyMs" : 0,
+      "engineDisplayName" : "OpenAI WS (SMPL AFE)",
+      "selfInterruptCount" : 0,
+      "engine" : "openaiWSAFE",
+      "deviceName" : "Jonathan’s Laptop",
+      "hasQualityMetrics" : false
+    }
+  ],
+  "sessionId" : "openaiWSAFE_3x_0329_101436",
+  "trialCount" : 3,
+  "timestamp" : 1774815369,
+  "device" : "Jonathan’s Laptop",
+  "engine" : "openaiWSAFE",
+  "engineDisplayName" : "OpenAI WS (SMPL AFE)"
+}
