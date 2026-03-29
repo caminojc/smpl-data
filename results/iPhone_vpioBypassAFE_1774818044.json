@@ -1,0 +1,44 @@
+{
+  "trials" : [
+    {
+      "selfInterruptCount" : 0,
+      "erlDb" : 40.232803344726562,
+      "snrDb" : 0,
+      "timestamp" : 1774818043,
+      "notes" : "Max",
+      "hasQualityMetrics" : true,
+      "timeToSpeakerMs" : 0,
+      "totalResponseCount" : 1,
+      "bargeInCount" : 0,
+      "engine" : "vpioBypassAFE",
+      "engineDisplayName" : "VPIO Bypass + AFE",
+      "firstAudioLatencyMs" : 404,
+      "trialIndex" : 0,
+      "estimatedMOS" : 5,
+      "deviceName" : "iPhone"
+    },
+    {
+      "engineDisplayName" : "VPIO Bypass + AFE",
+      "timeToSpeakerMs" : 0,
+      "firstAudioLatencyMs" : 425,
+      "bargeInCount" : 1,
+      "totalResponseCount" : 2,
+      "erlDb" : 38.334129333496094,
+      "notes" : "Max",
+      "estimatedMOS" : 5,
+      "snrDb" : 0,
+      "deviceName" : "iPhone",
+      "selfInterruptCount" : 0,
+      "engine" : "vpioBypassAFE",
+      "trialIndex" : 1,
+      "timestamp" : 1774818043,
+      "hasQualityMetrics" : true
+    }
+  ],
+  "device" : "iPhone",
+  "engine" : "vpioBypassAFE",
+  "engineDisplayName" : "VPIO Bypass + AFE",
+  "trialCount" : 2,
+  "timestamp" : 1774818044,
+  "sessionId" : "vpioBypassAFE_2x_0329_110014"
+}
