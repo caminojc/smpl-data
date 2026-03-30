@@ -1,0 +1,29 @@
+{
+  "deviceId" : "Jonathan’s Laptop",
+  "trialCount" : 1,
+  "timestamp" : 1774836817,
+  "trials" : [
+    {
+      "engine" : "smplAE",
+      "engineDisplayName" : "SMPL AFE (AVAudioEngine)",
+      "timeToSpeakerMs" : 0,
+      "estimatedMOS" : 5,
+      "totalResponseCount" : 1,
+      "timestamp" : 1774836817,
+      "selfInterruptCount" : 0,
+      "bargeInCount" : 0,
+      "notes" : "t",
+      "firstAudioLatencyMs" : 372,
+      "snrDb" : 0,
+      "hasQualityMetrics" : true,
+      "trialIndex" : 0,
+      "deviceName" : "Jonathan’s Laptop",
+      "erlDb" : 62.460002899169922
+    }
+  ],
+  "platform" : "macOS",
+  "engineDisplayName" : "SMPL AFE (AVAudioEngine)",
+  "device" : "Jonathan’s Laptop",
+  "sessionId" : "smplAE_1x_0329_161323",
+  "engine" : "smplAE"
+}
