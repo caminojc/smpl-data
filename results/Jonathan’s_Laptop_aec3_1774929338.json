@@ -1,0 +1,29 @@
+{
+  "trials" : [
+    {
+      "engine" : "aec3",
+      "notes" : "j",
+      "firstAudioLatencyMs" : 405,
+      "totalResponseCount" : 2,
+      "erlDb" : 0,
+      "hasQualityMetrics" : false,
+      "engineDisplayName" : "WebRTC AEC3",
+      "estimatedMOS" : 0,
+      "selfInterruptCount" : 1,
+      "snrDb" : 0,
+      "timestamp" : 1774929338,
+      "bargeInCount" : 0,
+      "trialIndex" : 0,
+      "timeToSpeakerMs" : 0,
+      "deviceName" : "Jonathan’s Laptop"
+    }
+  ],
+  "device" : "Jonathan’s Laptop",
+  "trialCount" : 1,
+  "sessionId" : "aec3_1x_0330_175523",
+  "engineDisplayName" : "WebRTC AEC3",
+  "engine" : "aec3",
+  "deviceId" : "Jonathan’s Laptop",
+  "platform" : "macOS",
+  "timestamp" : 1774929338
+}
