@@ -1,0 +1,29 @@
+{
+  "timestamp" : 1774993046,
+  "engineDisplayName" : "Sesame AI (SMPL AFE)",
+  "engine" : "sesameAFE",
+  "trials" : [
+    {
+      "deviceName" : "Jonathan’s Laptop",
+      "notes" : "test",
+      "estimatedMOS" : 4.0554385185241699,
+      "selfInterruptCount" : 4,
+      "snrDb" : 0,
+      "hasQualityMetrics" : true,
+      "timeToSpeakerMs" : 0,
+      "firstAudioLatencyMs" : -1053,
+      "erlDb" : 3.4548707008361816,
+      "bargeInCount" : 0,
+      "timestamp" : 1774993046,
+      "engine" : "sesameAFE",
+      "engineDisplayName" : "Sesame AI (SMPL AFE)",
+      "totalResponseCount" : 6,
+      "trialIndex" : 0
+    }
+  ],
+  "deviceId" : "Jonathan’s Laptop",
+  "sessionId" : "sesameAFE_1x_0331_113640",
+  "platform" : "macOS",
+  "device" : "Jonathan’s Laptop",
+  "trialCount" : 1
+}
