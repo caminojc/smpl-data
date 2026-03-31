@@ -1,0 +1,29 @@
+{
+  "trials" : [
+    {
+      "trialIndex" : 0,
+      "engineDisplayName" : "Sesame AI (AEC3)",
+      "bargeInCount" : 0,
+      "snrDb" : 0,
+      "timestamp" : 1774929360,
+      "totalResponseCount" : 0,
+      "engine" : "sesameAEC3",
+      "timeToSpeakerMs" : 0,
+      "deviceName" : "Jonathan’s Laptop",
+      "hasQualityMetrics" : false,
+      "notes" : "j",
+      "selfInterruptCount" : 0,
+      "firstAudioLatencyMs" : 0,
+      "estimatedMOS" : 0,
+      "erlDb" : 0
+    }
+  ],
+  "device" : "Jonathan’s Laptop",
+  "trialCount" : 1,
+  "sessionId" : "sesameAEC3_1x_0330_175559",
+  "engineDisplayName" : "Sesame AI (AEC3)",
+  "engine" : "sesameAEC3",
+  "deviceId" : "Jonathan’s Laptop",
+  "platform" : "macOS",
+  "timestamp" : 1774929360
+}
