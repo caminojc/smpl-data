@@ -1,0 +1,29 @@
+{
+  "sessionId" : "sesameAFE_1x_0403_075950",
+  "platform" : "iOS",
+  "engineDisplayName" : "Sesame AI (SMPL AFE)",
+  "timestamp" : 1775239207,
+  "engine" : "sesameAFE",
+  "device" : "iPhone",
+  "trialCount" : 1,
+  "trials" : [
+    {
+      "timeToSpeakerMs" : 0,
+      "totalResponseCount" : 1,
+      "trialIndex" : 0,
+      "hasQualityMetrics" : true,
+      "firstAudioLatencyMs" : -528,
+      "erlDb" : 90.625465393066406,
+      "deviceName" : "iPhone",
+      "estimatedMOS" : 5,
+      "notes" : "N",
+      "timestamp" : 1775239207,
+      "selfInterruptCount" : 0,
+      "engine" : "sesameAFE",
+      "bargeInCount" : 0,
+      "engineDisplayName" : "Sesame AI (SMPL AFE)",
+      "snrDb" : 0
+    }
+  ],
+  "deviceId" : "B1FC5AC2-EDE1-474A-A1B2-7FC0519289C8"
+}
