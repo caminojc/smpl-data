@@ -1,0 +1,46 @@
+{
+  "sessionId" : "sesameAFE_2x_0404_145018",
+  "trials" : [
+    {
+      "bargeInCount" : 0,
+      "hasQualityMetrics" : true,
+      "deviceName" : "Jonathan’s Laptop",
+      "totalResponseCount" : 2,
+      "timestamp" : 1775350253,
+      "timeToSpeakerMs" : 0,
+      "erlDb" : 25.317230224609375,
+      "snrDb" : 0,
+      "firstAudioLatencyMs" : -832,
+      "trialIndex" : 0,
+      "selfInterruptCount" : 0,
+      "estimatedMOS" : 5,
+      "notes" : "[Profile: coupling=-19dB noise=-49dBFS rt60=390ms Highly variable quiet, moderate reverb, high coupling (speakerphone)]",
+      "engine" : "sesameAFE",
+      "engineDisplayName" : "Sesame AI (SMPL AFE)"
+    },
+    {
+      "hasQualityMetrics" : true,
+      "totalResponseCount" : 2,
+      "firstAudioLatencyMs" : -527,
+      "deviceName" : "Jonathan’s Laptop",
+      "engineDisplayName" : "Sesame AI (SMPL AFE)",
+      "bargeInCount" : 0,
+      "engine" : "sesameAFE",
+      "timeToSpeakerMs" : 0,
+      "timestamp" : 1775350253,
+      "notes" : "[Profile: coupling=-19dB noise=-49dBFS rt60=390ms Highly variable quiet, moderate reverb, high coupling (speakerphone)]",
+      "snrDb" : 0,
+      "estimatedMOS" : 5,
+      "trialIndex" : 1,
+      "selfInterruptCount" : 0,
+      "erlDb" : 20.826589584350586
+    }
+  ],
+  "device" : "Jonathan’s Laptop",
+  "platform" : "macOS",
+  "engineDisplayName" : "Sesame AI (SMPL AFE)",
+  "trialCount" : 2,
+  "timestamp" : 1775350253,
+  "deviceId" : "Jonathan’s Laptop",
+  "engine" : "sesameAFE"
+}
