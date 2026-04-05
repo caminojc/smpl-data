@@ -1,0 +1,46 @@
+{
+  "trialCount" : 2,
+  "sessionId" : "sesameAFE_2x_0404_143531",
+  "deviceId" : "Jonathan’s Laptop",
+  "engine" : "sesameAFE",
+  "engineDisplayName" : "Sesame AI (SMPL AFE)",
+  "timestamp" : 1775349377,
+  "trials" : [
+    {
+      "engineDisplayName" : "Sesame AI (SMPL AFE)",
+      "deviceName" : "Jonathan’s Laptop",
+      "estimatedMOS" : 4.4906468391418457,
+      "snrDb" : 0,
+      "hasQualityMetrics" : true,
+      "erlDb" : 12.65062141418457,
+      "bargeInCount" : 0,
+      "totalResponseCount" : 3,
+      "timestamp" : 1775349377,
+      "firstAudioLatencyMs" : -731,
+      "notes" : "bedroom.  [Profile: coupling=-19dB noise=-54dBFS rt60=450ms Frequent transient sounds quiet, reverberant, high coupling (speakerphone)]",
+      "trialIndex" : 0,
+      "engine" : "sesameAFE",
+      "selfInterruptCount" : 0,
+      "timeToSpeakerMs" : 0
+    },
+    {
+      "totalResponseCount" : 1,
+      "notes" : "bedroom.  [Profile: coupling=-19dB noise=-54dBFS rt60=450ms Frequent transient sounds quiet, reverberant, high coupling (speakerphone)]",
+      "trialIndex" : 1,
+      "bargeInCount" : 0,
+      "estimatedMOS" : 5,
+      "selfInterruptCount" : 0,
+      "timestamp" : 1775349377,
+      "engineDisplayName" : "Sesame AI (SMPL AFE)",
+      "hasQualityMetrics" : true,
+      "firstAudioLatencyMs" : -1016,
+      "deviceName" : "Jonathan’s Laptop",
+      "engine" : "sesameAFE",
+      "erlDb" : 75.314804077148438,
+      "snrDb" : 0,
+      "timeToSpeakerMs" : 0
+    }
+  ],
+  "platform" : "macOS",
+  "device" : "Jonathan’s Laptop"
+}
