@@ -1,0 +1,46 @@
+{
+  "timestamp" : 1775511598,
+  "trialCount" : 2,
+  "deviceId" : "Jonathan’s Laptop",
+  "device" : "Jonathan’s Laptop",
+  "engine" : "aec3",
+  "engineDisplayName" : "WebRTC AEC3",
+  "platform" : "macOS",
+  "sessionId" : "aec3_2x_0406_113927",
+  "trials" : [
+    {
+      "totalResponseCount" : 2,
+      "notes" : "",
+      "selfInterruptCount" : 2,
+      "firstAudioLatencyMs" : 509,
+      "bargeInCount" : 0,
+      "timeToSpeakerMs" : 0,
+      "timestamp" : 1775511598,
+      "engine" : "aec3",
+      "deviceName" : "Jonathan’s Laptop",
+      "erlDb" : 0,
+      "hasQualityMetrics" : false,
+      "engineDisplayName" : "WebRTC AEC3",
+      "estimatedMOS" : 0,
+      "trialIndex" : 0,
+      "snrDb" : 0
+    },
+    {
+      "hasQualityMetrics" : false,
+      "bargeInCount" : 0,
+      "timeToSpeakerMs" : 0,
+      "timestamp" : 1775511598,
+      "selfInterruptCount" : 1,
+      "engine" : "aec3",
+      "trialIndex" : 1,
+      "engineDisplayName" : "WebRTC AEC3",
+      "deviceName" : "Jonathan’s Laptop",
+      "firstAudioLatencyMs" : 482,
+      "erlDb" : 0,
+      "snrDb" : 0,
+      "totalResponseCount" : 2,
+      "estimatedMOS" : 0,
+      "notes" : ""
+    }
+  ]
+}
