@@ -1,0 +1,29 @@
+{
+  "device" : "MacBook Air",
+  "timestamp" : 1775530633,
+  "engine" : "sesameAFE",
+  "engineDisplayName" : "Sesame AI (SMPL AFE)",
+  "platform" : "macOS",
+  "trialCount" : 1,
+  "sessionId" : "sesameAFE_1x_0406_165654",
+  "deviceId" : "MacBook Air",
+  "trials" : [
+    {
+      "snrDb" : 0,
+      "hasQualityMetrics" : true,
+      "engineDisplayName" : "Sesame AI (SMPL AFE)",
+      "totalResponseCount" : 1,
+      "erlDb" : 50.685352325439453,
+      "timeToSpeakerMs" : 0,
+      "notes" : "",
+      "trialIndex" : 0,
+      "bargeInCount" : 0,
+      "firstAudioLatencyMs" : -1095,
+      "selfInterruptCount" : 0,
+      "engine" : "sesameAFE",
+      "estimatedMOS" : 5,
+      "deviceName" : "MacBook Air",
+      "timestamp" : 1775530633
+    }
+  ]
+}
