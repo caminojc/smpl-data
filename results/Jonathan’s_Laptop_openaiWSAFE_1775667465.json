@@ -1,0 +1,29 @@
+{
+  "platform" : "macOS",
+  "timestamp" : 1775667465,
+  "deviceId" : "Jonathan’s Laptop",
+  "device" : "Jonathan’s Laptop",
+  "engineDisplayName" : "OpenAI WS (SMPL AFE)",
+  "engine" : "openaiWSAFE",
+  "sessionId" : "openaiWSAFE_1x_0408_065724",
+  "trialCount" : 1,
+  "trials" : [
+    {
+      "engine" : "openaiWSAFE",
+      "snrDb" : 0,
+      "timestamp" : 1775667465,
+      "engineDisplayName" : "OpenAI WS (SMPL AFE)",
+      "deviceName" : "Jonathan’s Laptop",
+      "erlDb" : 0,
+      "hasQualityMetrics" : false,
+      "bargeInCount" : 0,
+      "estimatedMOS" : 0,
+      "notes" : "",
+      "selfInterruptCount" : 2,
+      "trialIndex" : 0,
+      "firstAudioLatencyMs" : 492,
+      "timeToSpeakerMs" : 0,
+      "totalResponseCount" : 3
+    }
+  ]
+}
