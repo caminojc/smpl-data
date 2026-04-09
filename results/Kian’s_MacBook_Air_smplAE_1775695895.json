@@ -1,0 +1,29 @@
+{
+  "engineDisplayName" : "SMPL AFE (AVAudioEngine)",
+  "timestamp" : 1775695895,
+  "trialCount" : 1,
+  "sessionId" : "smplAE_1x_0408_145115",
+  "trials" : [
+    {
+      "estimatedMOS" : 4.055450439453125,
+      "hasQualityMetrics" : true,
+      "selfInterruptCount" : 1,
+      "trialIndex" : 0,
+      "engine" : "smplAE",
+      "timeToSpeakerMs" : 0,
+      "totalResponseCount" : 6,
+      "snrDb" : 0,
+      "erlDb" : 3.4552037715911865,
+      "engineDisplayName" : "SMPL AFE (AVAudioEngine)",
+      "notes" : "",
+      "deviceName" : "Kian’s MacBook Air",
+      "firstAudioLatencyMs" : 436,
+      "timestamp" : 1775695895,
+      "bargeInCount" : 4
+    }
+  ],
+  "deviceId" : "Kian’s MacBook Air",
+  "device" : "Kian’s MacBook Air",
+  "platform" : "macOS",
+  "engine" : "smplAE"
+}
