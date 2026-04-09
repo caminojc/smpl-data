@@ -1,0 +1,29 @@
+{
+  "device" : "Jonathan’s Laptop",
+  "engineDisplayName" : "SMPL AFE (HAL)",
+  "trials" : [
+    {
+      "totalResponseCount" : 1,
+      "erlDb" : 58.543811798095703,
+      "trialIndex" : 0,
+      "timeToSpeakerMs" : 0,
+      "estimatedMOS" : 5,
+      "snrDb" : 0,
+      "selfInterruptCount" : 0,
+      "engineDisplayName" : "SMPL AFE (HAL)",
+      "firstAudioLatencyMs" : 439,
+      "deviceName" : "Jonathan’s Laptop",
+      "bargeInCount" : 0,
+      "hasQualityMetrics" : true,
+      "notes" : "",
+      "engine" : "smpl",
+      "timestamp" : 1775694920
+    }
+  ],
+  "engine" : "smpl",
+  "timestamp" : 1775694920,
+  "platform" : "macOS",
+  "sessionId" : "smpl_1x_0408_143500",
+  "trialCount" : 1,
+  "deviceId" : "Jonathan’s Laptop"
+}
