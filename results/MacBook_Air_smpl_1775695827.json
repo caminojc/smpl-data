@@ -1,0 +1,29 @@
+{
+  "platform" : "macOS",
+  "device" : "MacBook Air",
+  "deviceId" : "MacBook Air",
+  "sessionId" : "smpl_1x_0408_145013",
+  "engineDisplayName" : "SMPL AFE (HAL)",
+  "engine" : "smpl",
+  "timestamp" : 1775695827,
+  "trials" : [
+    {
+      "deviceName" : "MacBook Air",
+      "bargeInCount" : 0,
+      "engineDisplayName" : "SMPL AFE (HAL)",
+      "firstAudioLatencyMs" : 406,
+      "hasQualityMetrics" : true,
+      "erlDb" : 4.0151171684265137,
+      "engine" : "smpl",
+      "trialIndex" : 0,
+      "selfInterruptCount" : 2,
+      "timeToSpeakerMs" : 0,
+      "totalResponseCount" : 3,
+      "snrDb" : 0,
+      "notes" : "",
+      "timestamp" : 1775695827,
+      "estimatedMOS" : 4.075901985168457
+    }
+  ],
+  "trialCount" : 1
+}
