@@ -1,0 +1,63 @@
+{
+  "engine" : "sesameAEC3",
+  "engineDisplayName" : "Sesame AI (AEC3)",
+  "platform" : "macOS",
+  "trialCount" : 3,
+  "device" : "Jonathan’s Laptop",
+  "sessionId" : "sesameAEC3_3x_0419_160959",
+  "timestamp" : 1776640248,
+  "deviceId" : "Jonathan’s Laptop",
+  "trials" : [
+    {
+      "bargeInCount" : 0,
+      "erlDb" : 0,
+      "trialIndex" : 0,
+      "firstAudioLatencyMs" : 0,
+      "selfInterruptCount" : 0,
+      "totalResponseCount" : 0,
+      "estimatedMOS" : 0,
+      "timeToSpeakerMs" : 0,
+      "snrDb" : 0,
+      "engine" : "sesameAEC3",
+      "engineDisplayName" : "Sesame AI (AEC3)",
+      "timestamp" : 1776640248,
+      "notes" : "",
+      "deviceName" : "Jonathan’s Laptop",
+      "hasQualityMetrics" : false
+    },
+    {
+      "hasQualityMetrics" : false,
+      "timestamp" : 1776640248,
+      "trialIndex" : 1,
+      "bargeInCount" : 0,
+      "firstAudioLatencyMs" : 0,
+      "totalResponseCount" : 0,
+      "notes" : "",
+      "selfInterruptCount" : 0,
+      "erlDb" : 0,
+      "timeToSpeakerMs" : 0,
+      "snrDb" : 0,
+      "estimatedMOS" : 0,
+      "engine" : "sesameAEC3",
+      "engineDisplayName" : "Sesame AI (AEC3)",
+      "deviceName" : "Jonathan’s Laptop"
+    },
+    {
+      "bargeInCount" : 0,
+      "hasQualityMetrics" : false,
+      "estimatedMOS" : 0,
+      "engineDisplayName" : "Sesame AI (AEC3)",
+      "snrDb" : 0,
+      "trialIndex" : 2,
+      "totalResponseCount" : 0,
+      "deviceName" : "Jonathan’s Laptop",
+      "erlDb" : 0,
+      "notes" : "",
+      "engine" : "sesameAEC3",
+      "selfInterruptCount" : 0,
+      "timeToSpeakerMs" : 0,
+      "firstAudioLatencyMs" : 0,
+      "timestamp" : 1776640248
+    }
+  ]
+}
