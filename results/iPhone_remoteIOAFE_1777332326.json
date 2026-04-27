@@ -1,0 +1,29 @@
+{
+  "trials" : [
+    {
+      "trialIndex" : 0,
+      "selfInterruptCount" : 0,
+      "estimatedMOS" : 4.604301929473877,
+      "totalResponseCount" : 1,
+      "timestamp" : 1777332326,
+      "snrDb" : 0,
+      "erlDb" : 14.54200553894043,
+      "engineDisplayName" : "RemoteIO + AFE",
+      "timeToSpeakerMs" : 0,
+      "notes" : "",
+      "deviceName" : "iPhone",
+      "firstAudioLatencyMs" : 4906,
+      "bargeInCount" : 0,
+      "engine" : "remoteIOAFE",
+      "hasQualityMetrics" : true
+    }
+  ],
+  "timestamp" : 1777332326,
+  "platform" : "iOS",
+  "sessionId" : "remoteIOAFE_1x_0427_132510",
+  "trialCount" : 1,
+  "engineDisplayName" : "RemoteIO + AFE",
+  "deviceId" : "B1FC5AC2-EDE1-474A-A1B2-7FC0519289C8",
+  "engine" : "remoteIOAFE",
+  "device" : "iPhone"
+}
