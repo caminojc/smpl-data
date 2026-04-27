@@ -1,0 +1,29 @@
+{
+  "trials" : [
+    {
+      "engineDisplayName" : "VPIO Bypass + AFE",
+      "bargeInCount" : 0,
+      "notes" : "",
+      "selfInterruptCount" : 0,
+      "erlDb" : 12.389922142028809,
+      "totalResponseCount" : 1,
+      "snrDb" : 0,
+      "estimatedMOS" : 4.4755258560180664,
+      "deviceName" : "iPhone",
+      "timestamp" : 1777332348,
+      "hasQualityMetrics" : true,
+      "timeToSpeakerMs" : 0,
+      "firstAudioLatencyMs" : 4439,
+      "trialIndex" : 0,
+      "engine" : "vpioBypassAFE"
+    }
+  ],
+  "timestamp" : 1777332348,
+  "platform" : "iOS",
+  "sessionId" : "vpioBypassAFE_1x_0427_132533",
+  "trialCount" : 1,
+  "engineDisplayName" : "VPIO Bypass + AFE",
+  "deviceId" : "B1FC5AC2-EDE1-474A-A1B2-7FC0519289C8",
+  "engine" : "vpioBypassAFE",
+  "device" : "iPhone"
+}
